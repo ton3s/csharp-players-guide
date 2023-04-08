@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-variable-shop/bin/Debug/net6.0/the-variable-shop
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-variable-shop/bin/Debug/net6.0/the-variable-shop.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-variable-shop/bin/Debug/net6.0/the-variable-shop.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-variable-shop/bin/Debug/net6.0/the-variable-shop.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-variable-shop/bin/Debug/net6.0/the-variable-shop.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-variable-shop/obj/Debug/net6.0/the-variable-shop.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-variable-shop/obj/Debug/net6.0/the-variable-shop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-variable-shop/obj/Debug/net6.0/the-variable-shop.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-variable-shop/obj/Debug/net6.0/the-variable-shop.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-variable-shop/obj/Debug/net6.0/the-variable-shop.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-variable-shop/obj/Debug/net6.0/the-variable-shop.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-variable-shop/obj/Debug/net6.0/refint/the-variable-shop.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-variable-shop/obj/Debug/net6.0/the-variable-shop.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-variable-shop/obj/Debug/net6.0/the-variable-shop.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-variable-shop/obj/Debug/net6.0/ref/the-variable-shop.dll

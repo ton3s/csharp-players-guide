@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-thing-namer-3000/bin/Debug/net6.0/the-thing-namer-3000
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-thing-namer-3000/bin/Debug/net6.0/the-thing-namer-3000.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-thing-namer-3000/bin/Debug/net6.0/the-thing-namer-3000.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-thing-namer-3000/bin/Debug/net6.0/the-thing-namer-3000.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-thing-namer-3000/bin/Debug/net6.0/the-thing-namer-3000.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-thing-namer-3000/obj/Debug/net6.0/the-thing-namer-3000.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-thing-namer-3000/obj/Debug/net6.0/the-thing-namer-3000.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-thing-namer-3000/obj/Debug/net6.0/the-thing-namer-3000.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-thing-namer-3000/obj/Debug/net6.0/the-thing-namer-3000.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-thing-namer-3000/obj/Debug/net6.0/the-thing-namer-3000.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-thing-namer-3000/obj/Debug/net6.0/the-thing-namer-3000.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-thing-namer-3000/obj/Debug/net6.0/refint/the-thing-namer-3000.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-thing-namer-3000/obj/Debug/net6.0/the-thing-namer-3000.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-thing-namer-3000/obj/Debug/net6.0/the-thing-namer-3000.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-thing-namer-3000/obj/Debug/net6.0/ref/the-thing-namer-3000.dll
