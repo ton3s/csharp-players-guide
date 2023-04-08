@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/consolas-and-telim/obj/Debug/net6.0/consolas-and-telim.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/consolas-and-telim/obj/Debug/net6.0/consolas-and-telim.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/consolas-and-telim/obj/Debug/net6.0/consolas-and-telim.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/consolas-and-telim/obj/Debug/net6.0/consolas-and-telim.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/consolas-and-telim/obj/Debug/net6.0/consolas-and-telim.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/consolas-and-telim/bin/Debug/net6.0/consolas-and-telim
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/consolas-and-telim/bin/Debug/net6.0/consolas-and-telim.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/consolas-and-telim/bin/Debug/net6.0/consolas-and-telim.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/consolas-and-telim/bin/Debug/net6.0/consolas-and-telim.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/consolas-and-telim/bin/Debug/net6.0/consolas-and-telim.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/consolas-and-telim/obj/Debug/net6.0/consolas-and-telim.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/consolas-and-telim/obj/Debug/net6.0/refint/consolas-and-telim.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/consolas-and-telim/obj/Debug/net6.0/consolas-and-telim.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/consolas-and-telim/obj/Debug/net6.0/consolas-and-telim.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/consolas-and-telim/obj/Debug/net6.0/ref/consolas-and-telim.dll
