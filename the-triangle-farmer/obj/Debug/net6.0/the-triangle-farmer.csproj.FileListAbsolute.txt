@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-triangle-farmer/bin/Debug/net6.0/the-triangle-farmer
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-triangle-farmer/bin/Debug/net6.0/the-triangle-farmer.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-triangle-farmer/bin/Debug/net6.0/the-triangle-farmer.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-triangle-farmer/bin/Debug/net6.0/the-triangle-farmer.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-triangle-farmer/bin/Debug/net6.0/the-triangle-farmer.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-triangle-farmer/obj/Debug/net6.0/the-triangle-farmer.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-triangle-farmer/obj/Debug/net6.0/the-triangle-farmer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-triangle-farmer/obj/Debug/net6.0/the-triangle-farmer.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-triangle-farmer/obj/Debug/net6.0/the-triangle-farmer.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-triangle-farmer/obj/Debug/net6.0/the-triangle-farmer.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-triangle-farmer/obj/Debug/net6.0/the-triangle-farmer.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-triangle-farmer/obj/Debug/net6.0/refint/the-triangle-farmer.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-triangle-farmer/obj/Debug/net6.0/the-triangle-farmer.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-triangle-farmer/obj/Debug/net6.0/the-triangle-farmer.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-triangle-farmer/obj/Debug/net6.0/ref/the-triangle-farmer.dll

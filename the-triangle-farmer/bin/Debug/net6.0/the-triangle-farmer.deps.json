@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "the-triangle-farmer/1.0.0": {
+        "runtime": {
+          "the-triangle-farmer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "the-triangle-farmer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

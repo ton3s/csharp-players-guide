@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/four-sisters-and-the-duckbear/obj/Debug/net6.0/four-sisters-and-the-duckbear.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/four-sisters-and-the-duckbear/obj/Debug/net6.0/four-sisters-and-the-duckbear.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/four-sisters-and-the-duckbear/obj/Debug/net6.0/four-sisters-and-the-duckbear.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/four-sisters-and-the-duckbear/obj/Debug/net6.0/four-sisters-and-the-duckbear.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/four-sisters-and-the-duckbear/obj/Debug/net6.0/four-sisters-and-the-duckbear.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/four-sisters-and-the-duckbear/bin/Debug/net6.0/four-sisters-and-the-duckbear
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/four-sisters-and-the-duckbear/bin/Debug/net6.0/four-sisters-and-the-duckbear.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/four-sisters-and-the-duckbear/bin/Debug/net6.0/four-sisters-and-the-duckbear.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/four-sisters-and-the-duckbear/bin/Debug/net6.0/four-sisters-and-the-duckbear.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/four-sisters-and-the-duckbear/bin/Debug/net6.0/four-sisters-and-the-duckbear.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/four-sisters-and-the-duckbear/obj/Debug/net6.0/four-sisters-and-the-duckbear.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/four-sisters-and-the-duckbear/obj/Debug/net6.0/refint/four-sisters-and-the-duckbear.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/four-sisters-and-the-duckbear/obj/Debug/net6.0/four-sisters-and-the-duckbear.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/four-sisters-and-the-duckbear/obj/Debug/net6.0/four-sisters-and-the-duckbear.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/four-sisters-and-the-duckbear/obj/Debug/net6.0/ref/four-sisters-and-the-duckbear.dll

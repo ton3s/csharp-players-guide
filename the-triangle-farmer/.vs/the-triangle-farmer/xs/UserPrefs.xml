@@ -1,19 +1,19 @@
-﻿<Properties StartupConfiguration="{A482C792-AB1D-410C-8E09-DDB005B6A36C}|Default">
-  <MonoDevelop.Ide.ItemProperties.the-variable-shop PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{F2B76346-D40F-4AAB-9186-5830D7452AA5}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.the-triangle-farmer PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="63" Column="6" />
+      <File FileName="Program.cs" Line="17" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="the-variable-shop" expanded="True">
-            <Node name="the-variable-shop" expanded="True">
+          <Node name="the-triangle-farmer" expanded="True">
+            <Node name="the-triangle-farmer" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
