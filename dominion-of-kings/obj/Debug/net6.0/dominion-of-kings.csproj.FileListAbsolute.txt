@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/dominion-of-kings/bin/Debug/net6.0/dominion-of-kings
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/dominion-of-kings/bin/Debug/net6.0/dominion-of-kings.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/dominion-of-kings/bin/Debug/net6.0/dominion-of-kings.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/dominion-of-kings/bin/Debug/net6.0/dominion-of-kings.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/dominion-of-kings/bin/Debug/net6.0/dominion-of-kings.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/dominion-of-kings/obj/Debug/net6.0/dominion-of-kings.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/dominion-of-kings/obj/Debug/net6.0/dominion-of-kings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/dominion-of-kings/obj/Debug/net6.0/dominion-of-kings.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/dominion-of-kings/obj/Debug/net6.0/dominion-of-kings.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/dominion-of-kings/obj/Debug/net6.0/dominion-of-kings.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/dominion-of-kings/obj/Debug/net6.0/dominion-of-kings.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/dominion-of-kings/obj/Debug/net6.0/refint/dominion-of-kings.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/dominion-of-kings/obj/Debug/net6.0/dominion-of-kings.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/dominion-of-kings/obj/Debug/net6.0/dominion-of-kings.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/dominion-of-kings/obj/Debug/net6.0/ref/dominion-of-kings.dll
