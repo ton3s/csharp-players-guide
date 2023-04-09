@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/watchtower/bin/Debug/net6.0/watchtower
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/watchtower/bin/Debug/net6.0/watchtower.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/watchtower/bin/Debug/net6.0/watchtower.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/watchtower/bin/Debug/net6.0/watchtower.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/watchtower/bin/Debug/net6.0/watchtower.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/watchtower/obj/Debug/net6.0/watchtower.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/watchtower/obj/Debug/net6.0/watchtower.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/watchtower/obj/Debug/net6.0/watchtower.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/watchtower/obj/Debug/net6.0/watchtower.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/watchtower/obj/Debug/net6.0/watchtower.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/watchtower/obj/Debug/net6.0/watchtower.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/watchtower/obj/Debug/net6.0/refint/watchtower.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/watchtower/obj/Debug/net6.0/watchtower.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/watchtower/obj/Debug/net6.0/watchtower.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/watchtower/obj/Debug/net6.0/ref/watchtower.dll
