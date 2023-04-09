@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-magic-cannon/bin/Debug/net6.0/the-magic-cannon
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-magic-cannon/bin/Debug/net6.0/the-magic-cannon.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-magic-cannon/bin/Debug/net6.0/the-magic-cannon.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-magic-cannon/bin/Debug/net6.0/the-magic-cannon.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-magic-cannon/bin/Debug/net6.0/the-magic-cannon.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-magic-cannon/obj/Debug/net6.0/the-magic-cannon.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-magic-cannon/obj/Debug/net6.0/the-magic-cannon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-magic-cannon/obj/Debug/net6.0/the-magic-cannon.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-magic-cannon/obj/Debug/net6.0/the-magic-cannon.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-magic-cannon/obj/Debug/net6.0/the-magic-cannon.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-magic-cannon/obj/Debug/net6.0/the-magic-cannon.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-magic-cannon/obj/Debug/net6.0/refint/the-magic-cannon.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-magic-cannon/obj/Debug/net6.0/the-magic-cannon.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-magic-cannon/obj/Debug/net6.0/the-magic-cannon.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-magic-cannon/obj/Debug/net6.0/ref/the-magic-cannon.dll
