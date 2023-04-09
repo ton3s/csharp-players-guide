@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-prototype/bin/Debug/net6.0/the-prototype
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-prototype/bin/Debug/net6.0/the-prototype.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-prototype/bin/Debug/net6.0/the-prototype.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-prototype/bin/Debug/net6.0/the-prototype.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-prototype/bin/Debug/net6.0/the-prototype.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-prototype/obj/Debug/net6.0/the-prototype.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-prototype/obj/Debug/net6.0/the-prototype.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-prototype/obj/Debug/net6.0/the-prototype.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-prototype/obj/Debug/net6.0/the-prototype.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-prototype/obj/Debug/net6.0/the-prototype.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-prototype/obj/Debug/net6.0/the-prototype.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-prototype/obj/Debug/net6.0/refint/the-prototype.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-prototype/obj/Debug/net6.0/the-prototype.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-prototype/obj/Debug/net6.0/the-prototype.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-prototype/obj/Debug/net6.0/ref/the-prototype.dll
