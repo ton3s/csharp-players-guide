@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/repairing-the-clock-tower/bin/Debug/net6.0/repairing-the-clock-tower
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/repairing-the-clock-tower/bin/Debug/net6.0/repairing-the-clock-tower.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/repairing-the-clock-tower/bin/Debug/net6.0/repairing-the-clock-tower.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/repairing-the-clock-tower/bin/Debug/net6.0/repairing-the-clock-tower.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/repairing-the-clock-tower/bin/Debug/net6.0/repairing-the-clock-tower.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/repairing-the-clock-tower/obj/Debug/net6.0/repairing-the-clock-tower.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/repairing-the-clock-tower/obj/Debug/net6.0/repairing-the-clock-tower.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/repairing-the-clock-tower/obj/Debug/net6.0/repairing-the-clock-tower.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/repairing-the-clock-tower/obj/Debug/net6.0/repairing-the-clock-tower.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/repairing-the-clock-tower/obj/Debug/net6.0/repairing-the-clock-tower.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/repairing-the-clock-tower/obj/Debug/net6.0/repairing-the-clock-tower.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/repairing-the-clock-tower/obj/Debug/net6.0/refint/repairing-the-clock-tower.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/repairing-the-clock-tower/obj/Debug/net6.0/repairing-the-clock-tower.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/repairing-the-clock-tower/obj/Debug/net6.0/repairing-the-clock-tower.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/repairing-the-clock-tower/obj/Debug/net6.0/ref/repairing-the-clock-tower.dll

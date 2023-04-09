@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "repairing-the-clock-tower/1.0.0": {
+        "runtime": {
+          "repairing-the-clock-tower.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "repairing-the-clock-tower/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
