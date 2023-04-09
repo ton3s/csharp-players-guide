@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/buying-inventory/bin/Debug/net6.0/buying-inventory
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/buying-inventory/bin/Debug/net6.0/buying-inventory.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/buying-inventory/bin/Debug/net6.0/buying-inventory.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/buying-inventory/bin/Debug/net6.0/buying-inventory.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/buying-inventory/bin/Debug/net6.0/buying-inventory.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/buying-inventory/obj/Debug/net6.0/buying-inventory.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/buying-inventory/obj/Debug/net6.0/buying-inventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/buying-inventory/obj/Debug/net6.0/buying-inventory.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/buying-inventory/obj/Debug/net6.0/buying-inventory.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/buying-inventory/obj/Debug/net6.0/buying-inventory.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/buying-inventory/obj/Debug/net6.0/buying-inventory.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/buying-inventory/obj/Debug/net6.0/refint/buying-inventory.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/buying-inventory/obj/Debug/net6.0/buying-inventory.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/buying-inventory/obj/Debug/net6.0/buying-inventory.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/buying-inventory/obj/Debug/net6.0/ref/buying-inventory.dll
