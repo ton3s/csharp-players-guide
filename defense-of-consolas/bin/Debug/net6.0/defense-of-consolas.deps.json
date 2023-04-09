@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "defense-of-consolas/1.0.0": {
+        "runtime": {
+          "defense-of-consolas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "defense-of-consolas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

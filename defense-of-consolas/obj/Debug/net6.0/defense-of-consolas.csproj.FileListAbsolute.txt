@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/defense-of-consolas/bin/Debug/net6.0/defense-of-consolas
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/defense-of-consolas/bin/Debug/net6.0/defense-of-consolas.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/defense-of-consolas/bin/Debug/net6.0/defense-of-consolas.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/defense-of-consolas/bin/Debug/net6.0/defense-of-consolas.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/defense-of-consolas/bin/Debug/net6.0/defense-of-consolas.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/defense-of-consolas/obj/Debug/net6.0/defense-of-consolas.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/defense-of-consolas/obj/Debug/net6.0/defense-of-consolas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/defense-of-consolas/obj/Debug/net6.0/defense-of-consolas.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/defense-of-consolas/obj/Debug/net6.0/defense-of-consolas.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/defense-of-consolas/obj/Debug/net6.0/defense-of-consolas.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/defense-of-consolas/obj/Debug/net6.0/defense-of-consolas.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/defense-of-consolas/obj/Debug/net6.0/refint/defense-of-consolas.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/defense-of-consolas/obj/Debug/net6.0/defense-of-consolas.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/defense-of-consolas/obj/Debug/net6.0/defense-of-consolas.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/defense-of-consolas/obj/Debug/net6.0/ref/defense-of-consolas.dll
