@@ -9,6 +9,10 @@ class Program
         Console.Clear();
         Console.ForegroundColor = ConsoleColor.Blue;
 
+        // Ask for the customers name
+        Console.Write("What is your name? ");
+        string name = Console.ReadLine().ToLower();
+
         // Display menu
         Console.WriteLine("The following items are available: ");
         Console.WriteLine("1 - Rope");
@@ -36,6 +40,14 @@ class Program
 
         // Check if a valid item was returned
         if (item[0] == "Not Valid") Console.WriteLine("Sorry. A valid choice was not selected");
+        else if (name == "antonio")
+        {
+            // Its you! Get a 50% discount!
+            float discountedPrice = Convert.ToSingle(item[1]) / 2;
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("Its my favorite customer! You get 50 percent off everything!");
+            Console.WriteLine($"{item[0]} costs {discountedPrice:#.#} gold.");
+        }
         else
         {
             Console.ForegroundColor = ConsoleColor.Green;
