@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-replicator-of-dto/bin/Debug/net6.0/the-replicator-of-dto
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-replicator-of-dto/bin/Debug/net6.0/the-replicator-of-dto.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-replicator-of-dto/bin/Debug/net6.0/the-replicator-of-dto.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-replicator-of-dto/bin/Debug/net6.0/the-replicator-of-dto.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-replicator-of-dto/bin/Debug/net6.0/the-replicator-of-dto.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-replicator-of-dto/obj/Debug/net6.0/the-replicator-of-dto.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-replicator-of-dto/obj/Debug/net6.0/the-replicator-of-dto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-replicator-of-dto/obj/Debug/net6.0/the-replicator-of-dto.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-replicator-of-dto/obj/Debug/net6.0/the-replicator-of-dto.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-replicator-of-dto/obj/Debug/net6.0/the-replicator-of-dto.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-replicator-of-dto/obj/Debug/net6.0/the-replicator-of-dto.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-replicator-of-dto/obj/Debug/net6.0/refint/the-replicator-of-dto.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-replicator-of-dto/obj/Debug/net6.0/the-replicator-of-dto.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-replicator-of-dto/obj/Debug/net6.0/the-replicator-of-dto.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-replicator-of-dto/obj/Debug/net6.0/ref/the-replicator-of-dto.dll
