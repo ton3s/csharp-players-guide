@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/simulas-test/obj/Debug/net6.0/simulas-test.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/simulas-test/obj/Debug/net6.0/simulas-test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/simulas-test/obj/Debug/net6.0/simulas-test.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/simulas-test/obj/Debug/net6.0/simulas-test.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/simulas-test/obj/Debug/net6.0/simulas-test.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/simulas-test/bin/Debug/net6.0/simulas-test
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/simulas-test/bin/Debug/net6.0/simulas-test.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/simulas-test/bin/Debug/net6.0/simulas-test.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/simulas-test/bin/Debug/net6.0/simulas-test.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/simulas-test/bin/Debug/net6.0/simulas-test.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/simulas-test/obj/Debug/net6.0/simulas-test.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/simulas-test/obj/Debug/net6.0/refint/simulas-test.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/simulas-test/obj/Debug/net6.0/simulas-test.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/simulas-test/obj/Debug/net6.0/simulas-test.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/simulas-test/obj/Debug/net6.0/ref/simulas-test.dll
