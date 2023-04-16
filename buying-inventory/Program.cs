@@ -22,10 +22,9 @@ class Program
         Console.WriteLine("5 - Machete");
         Console.WriteLine("6 - Canoe");
         Console.WriteLine("7 - Food Supplies");
-        Console.Write("What number do you want to see the price of? ");
 
         // Get user input
-        int choice = Convert.ToInt32(Console.ReadLine());
+        int choice = AskForNumberInRange("What number do you want to see the price of?", 1, 7);
         string[] item = choice switch
         {
             1 => new string[]{ "Rope", "15" },
@@ -52,6 +51,17 @@ class Program
         {
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine($"{item[0]} costs {item[1]} gold.");
+        }
+
+        int AskForNumberInRange(string text, int min, int max)
+        {
+            int input;
+            do
+            {
+                Console.Write($"{text} ");
+                input = Convert.ToInt32(Console.ReadLine());
+            } while (input < min || input > max);
+            return input;
         }
     }
 }

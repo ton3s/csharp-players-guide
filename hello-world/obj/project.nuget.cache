@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IxQEUHjLCZW4Zote8aKALuJkvedCdh7hTJkVapAoCzadh1Mqxf3oMAlp2JADI2FnTmPfkDss30WQ06y0YinT+w==",
+  "dgSpecHash": "SwA6/muaNhPUjvsBrwPrCx5E6qRFkoyvHc2fFsj0o1Zurj1KznBSLOoTrMeZlkF4CVLw94V2RGh/Z29IYO2HSw==",
   "success": true,
-  "projectFilePath": "/Users/antoniocunanan/Desktop/c#/csharp-players-guide/HelloWorld/HelloWorld.csproj",
+  "projectFilePath": "/Users/antoniocunanan/Desktop/c#/csharp-players-guide/hello-world/HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
