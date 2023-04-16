@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/hunting-the-manticore/bin/Debug/net6.0/hunting-the-manticore
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/hunting-the-manticore/bin/Debug/net6.0/hunting-the-manticore.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/hunting-the-manticore/bin/Debug/net6.0/hunting-the-manticore.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/hunting-the-manticore/bin/Debug/net6.0/hunting-the-manticore.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/hunting-the-manticore/bin/Debug/net6.0/hunting-the-manticore.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/hunting-the-manticore/obj/Debug/net6.0/hunting-the-manticore.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/hunting-the-manticore/obj/Debug/net6.0/hunting-the-manticore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/hunting-the-manticore/obj/Debug/net6.0/hunting-the-manticore.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/hunting-the-manticore/obj/Debug/net6.0/hunting-the-manticore.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/hunting-the-manticore/obj/Debug/net6.0/hunting-the-manticore.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/hunting-the-manticore/obj/Debug/net6.0/hunting-the-manticore.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/hunting-the-manticore/obj/Debug/net6.0/refint/hunting-the-manticore.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/hunting-the-manticore/obj/Debug/net6.0/hunting-the-manticore.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/hunting-the-manticore/obj/Debug/net6.0/hunting-the-manticore.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/hunting-the-manticore/obj/Debug/net6.0/ref/hunting-the-manticore.dll

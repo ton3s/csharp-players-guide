@@ -1,19 +1,19 @@
-﻿<Properties StartupConfiguration="{C9F268BA-E58D-40AA-B238-B63402A051E6}|Default">
-  <MonoDevelop.Ide.ItemProperties.countdown PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{A110396C-AE7A-4370-8024-AA796F7DCC10}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.hunting-the-manticore PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="29" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="countdown" expanded="True">
-            <Node name="countdown" expanded="True">
+          <Node name="hunting-the-manticore" expanded="True">
+            <Node name="hunting-the-manticore" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
