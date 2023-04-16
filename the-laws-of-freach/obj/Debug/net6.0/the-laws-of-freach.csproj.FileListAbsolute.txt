@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-laws-of-freach/bin/Debug/net6.0/the-laws-of-freach
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-laws-of-freach/bin/Debug/net6.0/the-laws-of-freach.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-laws-of-freach/bin/Debug/net6.0/the-laws-of-freach.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-laws-of-freach/bin/Debug/net6.0/the-laws-of-freach.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-laws-of-freach/bin/Debug/net6.0/the-laws-of-freach.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-laws-of-freach/obj/Debug/net6.0/the-laws-of-freach.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-laws-of-freach/obj/Debug/net6.0/the-laws-of-freach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-laws-of-freach/obj/Debug/net6.0/the-laws-of-freach.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-laws-of-freach/obj/Debug/net6.0/the-laws-of-freach.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-laws-of-freach/obj/Debug/net6.0/the-laws-of-freach.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-laws-of-freach/obj/Debug/net6.0/the-laws-of-freach.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-laws-of-freach/obj/Debug/net6.0/refint/the-laws-of-freach.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-laws-of-freach/obj/Debug/net6.0/the-laws-of-freach.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-laws-of-freach/obj/Debug/net6.0/the-laws-of-freach.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-laws-of-freach/obj/Debug/net6.0/ref/the-laws-of-freach.dll
