@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/countdown/bin/Debug/net6.0/countdown
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/countdown/bin/Debug/net6.0/countdown.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/countdown/bin/Debug/net6.0/countdown.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/countdown/bin/Debug/net6.0/countdown.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/countdown/bin/Debug/net6.0/countdown.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/countdown/obj/Debug/net6.0/countdown.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/countdown/obj/Debug/net6.0/countdown.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/countdown/obj/Debug/net6.0/countdown.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/countdown/obj/Debug/net6.0/countdown.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/countdown/obj/Debug/net6.0/countdown.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/countdown/obj/Debug/net6.0/countdown.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/countdown/obj/Debug/net6.0/refint/countdown.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/countdown/obj/Debug/net6.0/countdown.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/countdown/obj/Debug/net6.0/countdown.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/countdown/obj/Debug/net6.0/ref/countdown.dll
