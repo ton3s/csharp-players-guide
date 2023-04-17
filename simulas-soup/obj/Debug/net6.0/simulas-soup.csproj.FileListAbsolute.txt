@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/simulas-soup/obj/Debug/net6.0/simulas-soup.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/simulas-soup/obj/Debug/net6.0/simulas-soup.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/simulas-soup/obj/Debug/net6.0/simulas-soup.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/simulas-soup/obj/Debug/net6.0/simulas-soup.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/simulas-soup/obj/Debug/net6.0/simulas-soup.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/simulas-soup/bin/Debug/net6.0/simulas-soup
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/simulas-soup/bin/Debug/net6.0/simulas-soup.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/simulas-soup/bin/Debug/net6.0/simulas-soup.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/simulas-soup/bin/Debug/net6.0/simulas-soup.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/simulas-soup/bin/Debug/net6.0/simulas-soup.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/simulas-soup/obj/Debug/net6.0/simulas-soup.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/simulas-soup/obj/Debug/net6.0/refint/simulas-soup.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/simulas-soup/obj/Debug/net6.0/simulas-soup.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/simulas-soup/obj/Debug/net6.0/simulas-soup.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/simulas-soup/obj/Debug/net6.0/ref/simulas-soup.dll
