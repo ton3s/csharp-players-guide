@@ -35,9 +35,9 @@ class Program
         } while (!Enum.TryParse<Seasoning>(input, out seasoning)); 
 
         // Initialize tuple
-        ( Type, Ingredient, Seasoning ) soup = (type, ingredient, seasoning);
+        (Type type, Ingredient ingredient, Seasoning seasoning) soup = (type, ingredient, seasoning);
 
-        Console.WriteLine($"{soup.Item3} {soup.Item2} {soup.Item1}");
+        Console.WriteLine($"{soup.seasoning} {soup.ingredient} {soup.type}");
 
         string Ask(string text)
         {
