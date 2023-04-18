@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-properties-of-arrows/bin/Debug/net6.0/the-properties-of-arrows
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-properties-of-arrows/bin/Debug/net6.0/the-properties-of-arrows.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-properties-of-arrows/bin/Debug/net6.0/the-properties-of-arrows.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-properties-of-arrows/bin/Debug/net6.0/the-properties-of-arrows.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-properties-of-arrows/bin/Debug/net6.0/the-properties-of-arrows.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-properties-of-arrows/obj/Debug/net6.0/the-properties-of-arrows.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-properties-of-arrows/obj/Debug/net6.0/the-properties-of-arrows.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-properties-of-arrows/obj/Debug/net6.0/the-properties-of-arrows.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-properties-of-arrows/obj/Debug/net6.0/the-properties-of-arrows.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-properties-of-arrows/obj/Debug/net6.0/the-properties-of-arrows.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-properties-of-arrows/obj/Debug/net6.0/the-properties-of-arrows.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-properties-of-arrows/obj/Debug/net6.0/refint/the-properties-of-arrows.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-properties-of-arrows/obj/Debug/net6.0/the-properties-of-arrows.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-properties-of-arrows/obj/Debug/net6.0/the-properties-of-arrows.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-properties-of-arrows/obj/Debug/net6.0/ref/the-properties-of-arrows.dll
