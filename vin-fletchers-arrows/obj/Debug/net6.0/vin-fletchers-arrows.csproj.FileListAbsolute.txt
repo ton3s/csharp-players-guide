@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/vin-fletchers-arrows/obj/Debug/net6.0/vin-fletchers-arrows.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/vin-fletchers-arrows/obj/Debug/net6.0/vin-fletchers-arrows.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/vin-fletchers-arrows/obj/Debug/net6.0/vin-fletchers-arrows.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/vin-fletchers-arrows/obj/Debug/net6.0/vin-fletchers-arrows.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/vin-fletchers-arrows/obj/Debug/net6.0/vin-fletchers-arrows.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/vin-fletchers-arrows/bin/Debug/net6.0/vin-fletchers-arrows
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/vin-fletchers-arrows/bin/Debug/net6.0/vin-fletchers-arrows.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/vin-fletchers-arrows/bin/Debug/net6.0/vin-fletchers-arrows.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/vin-fletchers-arrows/bin/Debug/net6.0/vin-fletchers-arrows.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/vin-fletchers-arrows/bin/Debug/net6.0/vin-fletchers-arrows.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/vin-fletchers-arrows/obj/Debug/net6.0/vin-fletchers-arrows.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/vin-fletchers-arrows/obj/Debug/net6.0/refint/vin-fletchers-arrows.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/vin-fletchers-arrows/obj/Debug/net6.0/vin-fletchers-arrows.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/vin-fletchers-arrows/obj/Debug/net6.0/vin-fletchers-arrows.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/vin-fletchers-arrows/obj/Debug/net6.0/ref/vin-fletchers-arrows.dll
