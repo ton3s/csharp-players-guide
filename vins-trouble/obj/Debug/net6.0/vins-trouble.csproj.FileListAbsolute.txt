@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/vins-trouble/obj/Debug/net6.0/vins-trouble.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/vins-trouble/obj/Debug/net6.0/vins-trouble.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/vins-trouble/obj/Debug/net6.0/vins-trouble.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/vins-trouble/obj/Debug/net6.0/vins-trouble.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/vins-trouble/obj/Debug/net6.0/vins-trouble.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/vins-trouble/bin/Debug/net6.0/vins-trouble
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/vins-trouble/bin/Debug/net6.0/vins-trouble.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/vins-trouble/bin/Debug/net6.0/vins-trouble.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/vins-trouble/bin/Debug/net6.0/vins-trouble.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/vins-trouble/bin/Debug/net6.0/vins-trouble.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/vins-trouble/obj/Debug/net6.0/vins-trouble.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/vins-trouble/obj/Debug/net6.0/refint/vins-trouble.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/vins-trouble/obj/Debug/net6.0/vins-trouble.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/vins-trouble/obj/Debug/net6.0/vins-trouble.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/vins-trouble/obj/Debug/net6.0/ref/vins-trouble.dll
