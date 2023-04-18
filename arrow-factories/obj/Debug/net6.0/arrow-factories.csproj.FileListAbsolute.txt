@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/arrow-factories/bin/Debug/net6.0/arrow-factories
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/arrow-factories/bin/Debug/net6.0/arrow-factories.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/arrow-factories/bin/Debug/net6.0/arrow-factories.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/arrow-factories/bin/Debug/net6.0/arrow-factories.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/arrow-factories/bin/Debug/net6.0/arrow-factories.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/arrow-factories/obj/Debug/net6.0/arrow-factories.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/arrow-factories/obj/Debug/net6.0/arrow-factories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/arrow-factories/obj/Debug/net6.0/arrow-factories.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/arrow-factories/obj/Debug/net6.0/arrow-factories.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/arrow-factories/obj/Debug/net6.0/arrow-factories.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/arrow-factories/obj/Debug/net6.0/arrow-factories.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/arrow-factories/obj/Debug/net6.0/refint/arrow-factories.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/arrow-factories/obj/Debug/net6.0/arrow-factories.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/arrow-factories/obj/Debug/net6.0/arrow-factories.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/arrow-factories/obj/Debug/net6.0/ref/arrow-factories.dll
