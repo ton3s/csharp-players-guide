@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/tic-tac-toe/bin/Debug/net6.0/tic-tac-toe
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/tic-tac-toe/bin/Debug/net6.0/tic-tac-toe.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/tic-tac-toe/bin/Debug/net6.0/tic-tac-toe.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/tic-tac-toe/bin/Debug/net6.0/tic-tac-toe.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/tic-tac-toe/bin/Debug/net6.0/tic-tac-toe.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/tic-tac-toe/obj/Debug/net6.0/tic-tac-toe.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/tic-tac-toe/obj/Debug/net6.0/tic-tac-toe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/tic-tac-toe/obj/Debug/net6.0/tic-tac-toe.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/tic-tac-toe/obj/Debug/net6.0/tic-tac-toe.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/tic-tac-toe/obj/Debug/net6.0/tic-tac-toe.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/tic-tac-toe/obj/Debug/net6.0/tic-tac-toe.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/tic-tac-toe/obj/Debug/net6.0/refint/tic-tac-toe.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/tic-tac-toe/obj/Debug/net6.0/tic-tac-toe.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/tic-tac-toe/obj/Debug/net6.0/tic-tac-toe.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/tic-tac-toe/obj/Debug/net6.0/ref/tic-tac-toe.dll
