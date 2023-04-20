@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-point/bin/Debug/net6.0/the-point
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-point/bin/Debug/net6.0/the-point.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-point/bin/Debug/net6.0/the-point.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-point/bin/Debug/net6.0/the-point.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-point/bin/Debug/net6.0/the-point.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-point/obj/Debug/net6.0/the-point.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-point/obj/Debug/net6.0/the-point.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-point/obj/Debug/net6.0/the-point.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-point/obj/Debug/net6.0/the-point.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-point/obj/Debug/net6.0/the-point.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-point/obj/Debug/net6.0/the-point.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-point/obj/Debug/net6.0/refint/the-point.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-point/obj/Debug/net6.0/the-point.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-point/obj/Debug/net6.0/the-point.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-point/obj/Debug/net6.0/ref/the-point.dll
