@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-color/bin/Debug/net6.0/the-color
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-color/bin/Debug/net6.0/the-color.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-color/bin/Debug/net6.0/the-color.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-color/bin/Debug/net6.0/the-color.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-color/bin/Debug/net6.0/the-color.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-color/obj/Debug/net6.0/the-color.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-color/obj/Debug/net6.0/the-color.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-color/obj/Debug/net6.0/the-color.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-color/obj/Debug/net6.0/the-color.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-color/obj/Debug/net6.0/the-color.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-color/obj/Debug/net6.0/the-color.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-color/obj/Debug/net6.0/refint/the-color.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-color/obj/Debug/net6.0/the-color.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-color/obj/Debug/net6.0/the-color.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-color/obj/Debug/net6.0/ref/the-color.dll
