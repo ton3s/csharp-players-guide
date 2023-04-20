@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-locked-door/bin/Debug/net6.0/the-locked-door
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-locked-door/bin/Debug/net6.0/the-locked-door.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-locked-door/bin/Debug/net6.0/the-locked-door.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-locked-door/bin/Debug/net6.0/the-locked-door.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-locked-door/bin/Debug/net6.0/the-locked-door.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-locked-door/obj/Debug/net6.0/the-locked-door.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-locked-door/obj/Debug/net6.0/the-locked-door.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-locked-door/obj/Debug/net6.0/the-locked-door.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-locked-door/obj/Debug/net6.0/the-locked-door.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-locked-door/obj/Debug/net6.0/the-locked-door.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-locked-door/obj/Debug/net6.0/the-locked-door.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-locked-door/obj/Debug/net6.0/refint/the-locked-door.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-locked-door/obj/Debug/net6.0/the-locked-door.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-locked-door/obj/Debug/net6.0/the-locked-door.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-locked-door/obj/Debug/net6.0/ref/the-locked-door.dll
