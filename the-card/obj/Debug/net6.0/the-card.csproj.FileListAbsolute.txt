@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-card/bin/Debug/net6.0/the-card
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-card/bin/Debug/net6.0/the-card.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-card/bin/Debug/net6.0/the-card.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-card/bin/Debug/net6.0/the-card.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-card/bin/Debug/net6.0/the-card.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-card/obj/Debug/net6.0/the-card.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-card/obj/Debug/net6.0/the-card.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-card/obj/Debug/net6.0/the-card.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-card/obj/Debug/net6.0/the-card.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-card/obj/Debug/net6.0/the-card.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-card/obj/Debug/net6.0/the-card.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-card/obj/Debug/net6.0/refint/the-card.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-card/obj/Debug/net6.0/the-card.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-card/obj/Debug/net6.0/the-card.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-card/obj/Debug/net6.0/ref/the-card.dll
