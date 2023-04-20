@@ -125,10 +125,43 @@ class Program
                     break;
             }
         }
+    }
 
+    public class Door {
+        private int _pin;
+        private DoorState _doorState;
 
+        public Door(int pin) {
+            _pin = pin;
+            _doorState = DoorState.Locked;
+        }
+
+        public void Open() {
+            if (_doorState == DoorState.Closed) _doorState = DoorState.Open;
+        }
+
+        public void Close() {
+            if (_doorState == DoorState.Open) _doorState = DoorState.Closed;
+        }
+
+        public void Lock() {
+            if (_doorState == DoorState.Closed) _doorState = DoorState.Locked;
+        }
+
+        public void Unlock(int pin) {
+            if (_doorState == DoorState.Locked && pin == _pin) _doorState = DoorState.Closed;
+        }
+
+        public void ChangePin(int oldPin, int newPin) {
+            if (_pin == oldPin) _pin = newPin;
+        }
+
+        public void displayStatus() {
+            Console.WriteLine($"Door is in a {_doorState} state.");
+        }
     }
 
     public enum CardColor { Red, Green, Blue, Yellow };
     public enum CardRank { One, Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten, Dollar, Percent, Carat, Ambersand };
+    public enum DoorState { Open, Closed, Locked }
 }
