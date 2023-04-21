@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-old-robot/bin/Debug/net6.0/the-old-robot
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-old-robot/bin/Debug/net6.0/the-old-robot.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-old-robot/bin/Debug/net6.0/the-old-robot.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-old-robot/bin/Debug/net6.0/the-old-robot.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-old-robot/bin/Debug/net6.0/the-old-robot.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-old-robot/obj/Debug/net6.0/the-old-robot.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-old-robot/obj/Debug/net6.0/the-old-robot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-old-robot/obj/Debug/net6.0/the-old-robot.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-old-robot/obj/Debug/net6.0/the-old-robot.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-old-robot/obj/Debug/net6.0/the-old-robot.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-old-robot/obj/Debug/net6.0/the-old-robot.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-old-robot/obj/Debug/net6.0/refint/the-old-robot.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-old-robot/obj/Debug/net6.0/the-old-robot.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-old-robot/obj/Debug/net6.0/the-old-robot.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-old-robot/obj/Debug/net6.0/ref/the-old-robot.dll
