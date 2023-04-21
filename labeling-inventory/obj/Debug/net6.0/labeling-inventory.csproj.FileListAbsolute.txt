@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/labeling-inventory/bin/Debug/net6.0/labeling-inventory
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/labeling-inventory/bin/Debug/net6.0/labeling-inventory.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/labeling-inventory/bin/Debug/net6.0/labeling-inventory.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/labeling-inventory/bin/Debug/net6.0/labeling-inventory.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/labeling-inventory/bin/Debug/net6.0/labeling-inventory.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/labeling-inventory/obj/Debug/net6.0/labeling-inventory.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/labeling-inventory/obj/Debug/net6.0/labeling-inventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/labeling-inventory/obj/Debug/net6.0/labeling-inventory.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/labeling-inventory/obj/Debug/net6.0/labeling-inventory.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/labeling-inventory/obj/Debug/net6.0/labeling-inventory.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/labeling-inventory/obj/Debug/net6.0/labeling-inventory.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/labeling-inventory/obj/Debug/net6.0/refint/labeling-inventory.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/labeling-inventory/obj/Debug/net6.0/labeling-inventory.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/labeling-inventory/obj/Debug/net6.0/labeling-inventory.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/labeling-inventory/obj/Debug/net6.0/ref/labeling-inventory.dll

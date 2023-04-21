@@ -2,7 +2,7 @@
 // Setup the console
 Console.Clear();
 Console.ForegroundColor = ConsoleColor.Green;
-Console.WriteLine("Packing Inventory");
+Console.WriteLine("Labeling Inventory");
 
 // Setup Pack
 Pack pack = new Pack(2, 10, 10);
@@ -40,7 +40,11 @@ do {
             Console.WriteLine("Invalid option specified.");
             break;
     }
-    pack.displayPackContents();
+
+    // Display pack contents
+    Console.ForegroundColor = ConsoleColor.Blue;
+    Console.WriteLine(pack.ToString());
+    
 } while (input != "q");
 
 
@@ -109,55 +113,60 @@ public class Pack
         return true;
     }
 
-    public void displayPackContents()
+    public override string ToString()
     {
-        Console.ForegroundColor = ConsoleColor.Blue;
-        Console.WriteLine("----------");
+        string packContents = "------------------------------\n";
+        packContents += "Pack containing";
         for (int i = 0; i < Items.Length; i++)
         {
             if (Items[i] != null)
             {
-                Console.WriteLine($"{i}: {Items[i].GetType()}");
+                packContents += $" {Items[i].ToString()}";
             }
         }
-        Console.WriteLine($"Stats: items: {ItemsCount}/{MaxItems}, weight:  {Weight}/{MaxWeight}, volume: {Volume}/{MaxVolume}");
-        Console.WriteLine("----------");
+        packContents += $"\n\nStats:\n";
+        packContents += $"Items: {ItemsCount}/{MaxItems}\n";
+        packContents += $"Weight: {Weight}/{MaxWeight}\n";
+        packContents += $"Volume: {Volume}/{MaxVolume}\n";
+        packContents += "------------------------------\n";
+
+        return packContents;
     }
 }
 
-// Arrow
-// Bow
-// Rope
-// Water
-// Food Rations
-// Sword
-
+// Items
 public class Arrow: InventoryItem
 {
-  public Arrow(): base(0.1f, 0.05f) { }
+    public Arrow(): base(0.1f, 0.05f) { }
+    public override string ToString() => "Arrow";
 }
 
 public class Bow : InventoryItem
 {
     public Bow() : base(1f, 4f) { }
+    public override string ToString() => "Bow";
 }
 
 public class Rope : InventoryItem
 {
     public Rope() : base(1f, 1.5f) { }
+    public override string ToString() => "Rope";
 }
 
 public class Water : InventoryItem
 {
     public Water() : base(2f, 3f) { }
+    public override string ToString() => "Water";
 }
 
 public class FoodRations : InventoryItem
 {
     public FoodRations() : base(1f, 0.5f) { }
+    public override string ToString() => "Food Rations";
 }
 
 public class Sword : InventoryItem
 {
     public Sword() : base(5f, 3f) { }
+    public override string ToString() => "Sword";
 }

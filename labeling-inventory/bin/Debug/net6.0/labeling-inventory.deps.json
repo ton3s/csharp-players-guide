@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "labeling-inventory/1.0.0": {
+        "runtime": {
+          "labeling-inventory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "labeling-inventory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
