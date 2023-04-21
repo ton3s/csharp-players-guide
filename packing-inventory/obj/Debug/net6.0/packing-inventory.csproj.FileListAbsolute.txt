@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/packing-inventory/bin/Debug/net6.0/packing-inventory
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/packing-inventory/bin/Debug/net6.0/packing-inventory.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/packing-inventory/bin/Debug/net6.0/packing-inventory.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/packing-inventory/bin/Debug/net6.0/packing-inventory.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/packing-inventory/bin/Debug/net6.0/packing-inventory.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/packing-inventory/obj/Debug/net6.0/packing-inventory.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/packing-inventory/obj/Debug/net6.0/packing-inventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/packing-inventory/obj/Debug/net6.0/packing-inventory.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/packing-inventory/obj/Debug/net6.0/packing-inventory.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/packing-inventory/obj/Debug/net6.0/packing-inventory.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/packing-inventory/obj/Debug/net6.0/packing-inventory.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/packing-inventory/obj/Debug/net6.0/refint/packing-inventory.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/packing-inventory/obj/Debug/net6.0/packing-inventory.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/packing-inventory/obj/Debug/net6.0/packing-inventory.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/packing-inventory/obj/Debug/net6.0/ref/packing-inventory.dll

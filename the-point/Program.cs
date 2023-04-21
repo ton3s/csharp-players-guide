@@ -17,6 +17,8 @@ class Program
         displayPoint(p2);
         displayPoint(p3);
 
+        Console.WriteLine(p1.ToString());
+
         void displayPoint(Point p)
         {
             Console.WriteLine($"({p.X}, {p.Y})");

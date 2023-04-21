@@ -1,3 +1,5 @@
 ﻿<Properties StartupConfiguration="{04481A52-1D27-4F12-8733-5C0F85FC2C21}|Default">
+  <MonoDevelop.Ide.ItemProperties.tic-tac-toe PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
 </Properties>
