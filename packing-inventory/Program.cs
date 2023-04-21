@@ -15,6 +15,7 @@ Pack pack = new Pack(2, 10, 10);
 // Prompt user
 string input;
 do {
+    Console.ForegroundColor = ConsoleColor.Yellow;
     Console.Write("What item would you like to add to the pack? (sword, bow, rope, arrow, water, food, q): ");
     input = Console.ReadLine() ?? "q";
     switch (input)
@@ -38,9 +39,9 @@ do {
             pack.Add(new FoodRations());
             break;
         case "q":
-            Console.WriteLine("Quitting...");
             break;
         default:
+            Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("Invalid option specified.");
             break;
     }
@@ -82,6 +83,7 @@ public class Pack
         // Check if there is space in the pack
         if (ItemsCount == Items.Length)
         {
+            Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine($"Pack cannot carry any more items. [{MaxItems}]");
             return false;
         }
@@ -89,6 +91,7 @@ public class Pack
         // Check if there is enough weight
         if ((item.Weight + Weight) > MaxWeight)
         {
+            Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine($"Adding the item will exceed the max weight limit. [{MaxWeight}]");
             return false;
         }
@@ -96,6 +99,7 @@ public class Pack
         // Check if there is enough volume
         if ((item.Volume + Volume) > MaxVolume)
         {
+            Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine($"Adding the item will exceed the max volume limit. [{MaxVolume}]");
             return false;
         }
@@ -112,6 +116,7 @@ public class Pack
 
     public void displayPackContents()
     {
+        Console.ForegroundColor = ConsoleColor.Blue;
         Console.WriteLine("----------");
         for (int i = 0; i < Items.Length; i++)
         {
