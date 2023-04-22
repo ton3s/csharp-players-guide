@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/robotic-interface/bin/Debug/net6.0/robotic-interface
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/robotic-interface/bin/Debug/net6.0/robotic-interface.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/robotic-interface/bin/Debug/net6.0/robotic-interface.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/robotic-interface/bin/Debug/net6.0/robotic-interface.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/robotic-interface/bin/Debug/net6.0/robotic-interface.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/robotic-interface/obj/Debug/net6.0/robotic-interface.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/robotic-interface/obj/Debug/net6.0/robotic-interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/robotic-interface/obj/Debug/net6.0/robotic-interface.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/robotic-interface/obj/Debug/net6.0/robotic-interface.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/robotic-interface/obj/Debug/net6.0/robotic-interface.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/robotic-interface/obj/Debug/net6.0/robotic-interface.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/robotic-interface/obj/Debug/net6.0/refint/robotic-interface.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/robotic-interface/obj/Debug/net6.0/robotic-interface.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/robotic-interface/obj/Debug/net6.0/robotic-interface.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/robotic-interface/obj/Debug/net6.0/ref/robotic-interface.dll
