@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-fountain-of-objects/bin/Debug/net6.0/the-fountain-of-objects
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-fountain-of-objects/bin/Debug/net6.0/the-fountain-of-objects.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-fountain-of-objects/bin/Debug/net6.0/the-fountain-of-objects.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-fountain-of-objects/bin/Debug/net6.0/the-fountain-of-objects.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-fountain-of-objects/bin/Debug/net6.0/the-fountain-of-objects.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-fountain-of-objects/obj/Debug/net6.0/the-fountain-of-objects.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-fountain-of-objects/obj/Debug/net6.0/the-fountain-of-objects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-fountain-of-objects/obj/Debug/net6.0/the-fountain-of-objects.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-fountain-of-objects/obj/Debug/net6.0/the-fountain-of-objects.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-fountain-of-objects/obj/Debug/net6.0/the-fountain-of-objects.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-fountain-of-objects/obj/Debug/net6.0/the-fountain-of-objects.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-fountain-of-objects/obj/Debug/net6.0/refint/the-fountain-of-objects.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-fountain-of-objects/obj/Debug/net6.0/the-fountain-of-objects.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-fountain-of-objects/obj/Debug/net6.0/the-fountain-of-objects.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-fountain-of-objects/obj/Debug/net6.0/ref/the-fountain-of-objects.dll
