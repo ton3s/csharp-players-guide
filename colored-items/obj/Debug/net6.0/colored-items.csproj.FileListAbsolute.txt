@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/colored-items/bin/Debug/net6.0/colored-items
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/colored-items/bin/Debug/net6.0/colored-items.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/colored-items/bin/Debug/net6.0/colored-items.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/colored-items/bin/Debug/net6.0/colored-items.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/colored-items/bin/Debug/net6.0/colored-items.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/colored-items/obj/Debug/net6.0/colored-items.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/colored-items/obj/Debug/net6.0/colored-items.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/colored-items/obj/Debug/net6.0/colored-items.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/colored-items/obj/Debug/net6.0/colored-items.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/colored-items/obj/Debug/net6.0/colored-items.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/colored-items/obj/Debug/net6.0/colored-items.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/colored-items/obj/Debug/net6.0/refint/colored-items.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/colored-items/obj/Debug/net6.0/colored-items.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/colored-items/obj/Debug/net6.0/colored-items.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/colored-items/obj/Debug/net6.0/ref/colored-items.dll

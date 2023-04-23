@@ -1,3 +1,5 @@
 ﻿<Properties StartupConfiguration="{CB18A183-7E1D-42F6-B0AD-3D04DC9693DD}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.war-preparations PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
