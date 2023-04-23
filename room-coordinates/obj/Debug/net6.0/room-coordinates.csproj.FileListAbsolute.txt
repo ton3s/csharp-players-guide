@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/room-coordinates/bin/Debug/net6.0/room-coordinates
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/room-coordinates/bin/Debug/net6.0/room-coordinates.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/room-coordinates/bin/Debug/net6.0/room-coordinates.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/room-coordinates/bin/Debug/net6.0/room-coordinates.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/room-coordinates/bin/Debug/net6.0/room-coordinates.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/room-coordinates/obj/Debug/net6.0/room-coordinates.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/room-coordinates/obj/Debug/net6.0/room-coordinates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/room-coordinates/obj/Debug/net6.0/room-coordinates.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/room-coordinates/obj/Debug/net6.0/room-coordinates.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/room-coordinates/obj/Debug/net6.0/room-coordinates.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/room-coordinates/obj/Debug/net6.0/room-coordinates.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/room-coordinates/obj/Debug/net6.0/refint/room-coordinates.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/room-coordinates/obj/Debug/net6.0/room-coordinates.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/room-coordinates/obj/Debug/net6.0/room-coordinates.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/room-coordinates/obj/Debug/net6.0/ref/room-coordinates.dll

@@ -1,3 +1,5 @@
 ﻿<Properties StartupConfiguration="{0780F7C0-1505-4618-9078-F1B592179006}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.the-old-robot PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
