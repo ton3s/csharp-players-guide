@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/war-preparations/bin/Debug/net6.0/war-preparations
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/war-preparations/bin/Debug/net6.0/war-preparations.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/war-preparations/bin/Debug/net6.0/war-preparations.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/war-preparations/bin/Debug/net6.0/war-preparations.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/war-preparations/bin/Debug/net6.0/war-preparations.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/war-preparations/obj/Debug/net6.0/war-preparations.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/war-preparations/obj/Debug/net6.0/war-preparations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/war-preparations/obj/Debug/net6.0/war-preparations.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/war-preparations/obj/Debug/net6.0/war-preparations.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/war-preparations/obj/Debug/net6.0/war-preparations.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/war-preparations/obj/Debug/net6.0/war-preparations.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/war-preparations/obj/Debug/net6.0/refint/war-preparations.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/war-preparations/obj/Debug/net6.0/war-preparations.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/war-preparations/obj/Debug/net6.0/war-preparations.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/war-preparations/obj/Debug/net6.0/ref/war-preparations.dll
