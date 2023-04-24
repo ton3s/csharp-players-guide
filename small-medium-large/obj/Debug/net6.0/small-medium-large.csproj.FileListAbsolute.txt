@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/small-medium-large/bin/Debug/net6.0/small-medium-large
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/small-medium-large/bin/Debug/net6.0/small-medium-large.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/small-medium-large/bin/Debug/net6.0/small-medium-large.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/small-medium-large/bin/Debug/net6.0/small-medium-large.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/small-medium-large/bin/Debug/net6.0/small-medium-large.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/small-medium-large/obj/Debug/net6.0/small-medium-large.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/small-medium-large/obj/Debug/net6.0/small-medium-large.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/small-medium-large/obj/Debug/net6.0/small-medium-large.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/small-medium-large/obj/Debug/net6.0/small-medium-large.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/small-medium-large/obj/Debug/net6.0/small-medium-large.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/small-medium-large/obj/Debug/net6.0/small-medium-large.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/small-medium-large/obj/Debug/net6.0/refint/small-medium-large.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/small-medium-large/obj/Debug/net6.0/small-medium-large.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/small-medium-large/obj/Debug/net6.0/small-medium-large.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/small-medium-large/obj/Debug/net6.0/ref/small-medium-large.dll
