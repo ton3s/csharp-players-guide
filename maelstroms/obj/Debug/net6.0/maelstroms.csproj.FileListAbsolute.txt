@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/maelstroms/obj/Debug/net6.0/maelstroms.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/maelstroms/obj/Debug/net6.0/maelstroms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/maelstroms/obj/Debug/net6.0/maelstroms.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/maelstroms/obj/Debug/net6.0/maelstroms.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/maelstroms/obj/Debug/net6.0/maelstroms.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/maelstroms/bin/Debug/net6.0/maelstroms
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/maelstroms/bin/Debug/net6.0/maelstroms.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/maelstroms/bin/Debug/net6.0/maelstroms.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/maelstroms/bin/Debug/net6.0/maelstroms.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/maelstroms/bin/Debug/net6.0/maelstroms.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/maelstroms/obj/Debug/net6.0/maelstroms.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/maelstroms/obj/Debug/net6.0/refint/maelstroms.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/maelstroms/obj/Debug/net6.0/maelstroms.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/maelstroms/obj/Debug/net6.0/maelstroms.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/maelstroms/obj/Debug/net6.0/ref/maelstroms.dll
