@@ -41,12 +41,12 @@ public struct Coordinates
         if (isAjacent)
         {
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine($"[{Display(row, column)}] is adjacent to [{Display(Row, Column)}]");
+            Console.WriteLine($"{Display(row, column)} is adjacent to {Display(Row, Column)}");
         }
         else
         {
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine($"[{Display(row, column)}] is NOT adjacent to [{Display(Row, Column)}]");
+            Console.WriteLine($"{Display(row, column)} is NOT adjacent to {Display(Row, Column)}");
         }
         return isAjacent;
     }

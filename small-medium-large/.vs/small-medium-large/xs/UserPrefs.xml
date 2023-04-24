@@ -1,3 +1,5 @@
 ﻿<Properties StartupConfiguration="{F2340B40-E51F-4D20-B385-3CC9D2405C0B}|Default">
+  <MonoDevelop.Ide.ItemProperties.small-medium-large PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
 </Properties>
