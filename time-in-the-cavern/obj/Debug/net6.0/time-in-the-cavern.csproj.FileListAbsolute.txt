@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/time-in-the-cavern/bin/Debug/net6.0/time-in-the-cavern
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/time-in-the-cavern/bin/Debug/net6.0/time-in-the-cavern.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/time-in-the-cavern/bin/Debug/net6.0/time-in-the-cavern.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/time-in-the-cavern/bin/Debug/net6.0/time-in-the-cavern.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/time-in-the-cavern/bin/Debug/net6.0/time-in-the-cavern.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/time-in-the-cavern/obj/Debug/net6.0/time-in-the-cavern.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/time-in-the-cavern/obj/Debug/net6.0/time-in-the-cavern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/time-in-the-cavern/obj/Debug/net6.0/time-in-the-cavern.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/time-in-the-cavern/obj/Debug/net6.0/time-in-the-cavern.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/time-in-the-cavern/obj/Debug/net6.0/time-in-the-cavern.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/time-in-the-cavern/obj/Debug/net6.0/time-in-the-cavern.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/time-in-the-cavern/obj/Debug/net6.0/refint/time-in-the-cavern.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/time-in-the-cavern/obj/Debug/net6.0/time-in-the-cavern.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/time-in-the-cavern/obj/Debug/net6.0/time-in-the-cavern.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/time-in-the-cavern/obj/Debug/net6.0/ref/time-in-the-cavern.dll
