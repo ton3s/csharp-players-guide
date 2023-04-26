@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/list-of-commands/bin/Debug/net6.0/list-of-commands
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/list-of-commands/bin/Debug/net6.0/list-of-commands.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/list-of-commands/bin/Debug/net6.0/list-of-commands.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/list-of-commands/bin/Debug/net6.0/list-of-commands.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/list-of-commands/bin/Debug/net6.0/list-of-commands.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/list-of-commands/obj/Debug/net6.0/list-of-commands.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/list-of-commands/obj/Debug/net6.0/list-of-commands.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/list-of-commands/obj/Debug/net6.0/list-of-commands.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/list-of-commands/obj/Debug/net6.0/list-of-commands.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/list-of-commands/obj/Debug/net6.0/list-of-commands.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/list-of-commands/obj/Debug/net6.0/list-of-commands.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/list-of-commands/obj/Debug/net6.0/refint/list-of-commands.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/list-of-commands/obj/Debug/net6.0/list-of-commands.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/list-of-commands/obj/Debug/net6.0/list-of-commands.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/list-of-commands/obj/Debug/net6.0/ref/list-of-commands.dll
