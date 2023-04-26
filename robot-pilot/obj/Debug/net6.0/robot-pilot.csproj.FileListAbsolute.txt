@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/robot-pilot/bin/Debug/net6.0/robot-pilot
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/robot-pilot/bin/Debug/net6.0/robot-pilot.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/robot-pilot/bin/Debug/net6.0/robot-pilot.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/robot-pilot/bin/Debug/net6.0/robot-pilot.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/robot-pilot/bin/Debug/net6.0/robot-pilot.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/robot-pilot/obj/Debug/net6.0/robot-pilot.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/robot-pilot/obj/Debug/net6.0/robot-pilot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/robot-pilot/obj/Debug/net6.0/robot-pilot.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/robot-pilot/obj/Debug/net6.0/robot-pilot.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/robot-pilot/obj/Debug/net6.0/robot-pilot.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/robot-pilot/obj/Debug/net6.0/robot-pilot.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/robot-pilot/obj/Debug/net6.0/refint/robot-pilot.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/robot-pilot/obj/Debug/net6.0/robot-pilot.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/robot-pilot/obj/Debug/net6.0/robot-pilot.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/robot-pilot/obj/Debug/net6.0/ref/robot-pilot.dll

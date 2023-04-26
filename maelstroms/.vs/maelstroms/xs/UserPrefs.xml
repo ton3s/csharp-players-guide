@@ -1,3 +1,5 @@
 ﻿<Properties StartupConfiguration="{86DEF4F4-BE2F-4248-805C-6510F66AC0E1}|Default">
+  <MonoDevelop.Ide.ItemProperties.maelstroms PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
 </Properties>
