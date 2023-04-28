@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-feud/bin/Debug/net6.0/the-feud
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-feud/bin/Debug/net6.0/the-feud.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-feud/bin/Debug/net6.0/the-feud.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-feud/bin/Debug/net6.0/the-feud.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-feud/bin/Debug/net6.0/the-feud.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-feud/obj/Debug/net6.0/the-feud.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-feud/obj/Debug/net6.0/the-feud.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-feud/obj/Debug/net6.0/the-feud.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-feud/obj/Debug/net6.0/the-feud.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-feud/obj/Debug/net6.0/the-feud.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-feud/obj/Debug/net6.0/the-feud.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-feud/obj/Debug/net6.0/refint/the-feud.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-feud/obj/Debug/net6.0/the-feud.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-feud/obj/Debug/net6.0/the-feud.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-feud/obj/Debug/net6.0/ref/the-feud.dll
