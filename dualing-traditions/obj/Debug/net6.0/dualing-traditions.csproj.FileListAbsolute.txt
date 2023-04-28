@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/dualing-traditions/bin/Debug/net6.0/dualing-traditions
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/dualing-traditions/bin/Debug/net6.0/dualing-traditions.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/dualing-traditions/bin/Debug/net6.0/dualing-traditions.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/dualing-traditions/bin/Debug/net6.0/dualing-traditions.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/dualing-traditions/bin/Debug/net6.0/dualing-traditions.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/dualing-traditions/obj/Debug/net6.0/dualing-traditions.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/dualing-traditions/obj/Debug/net6.0/dualing-traditions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/dualing-traditions/obj/Debug/net6.0/dualing-traditions.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/dualing-traditions/obj/Debug/net6.0/dualing-traditions.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/dualing-traditions/obj/Debug/net6.0/dualing-traditions.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/dualing-traditions/obj/Debug/net6.0/dualing-traditions.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/dualing-traditions/obj/Debug/net6.0/refint/dualing-traditions.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/dualing-traditions/obj/Debug/net6.0/dualing-traditions.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/dualing-traditions/obj/Debug/net6.0/dualing-traditions.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/dualing-traditions/obj/Debug/net6.0/ref/dualing-traditions.dll
