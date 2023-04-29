@@ -2,7 +2,6 @@
 Console.ForegroundColor = ConsoleColor.Yellow;
 Console.WriteLine("Safer Number Crunching");
 
-
 int intResult;
 do
 {

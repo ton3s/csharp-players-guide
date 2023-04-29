@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/better-random/bin/Debug/net6.0/better-random
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/better-random/bin/Debug/net6.0/better-random.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/better-random/bin/Debug/net6.0/better-random.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/better-random/bin/Debug/net6.0/better-random.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/better-random/bin/Debug/net6.0/better-random.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/better-random/obj/Debug/net6.0/better-random.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/better-random/obj/Debug/net6.0/better-random.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/better-random/obj/Debug/net6.0/better-random.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/better-random/obj/Debug/net6.0/better-random.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/better-random/obj/Debug/net6.0/better-random.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/better-random/obj/Debug/net6.0/better-random.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/better-random/obj/Debug/net6.0/refint/better-random.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/better-random/obj/Debug/net6.0/better-random.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/better-random/obj/Debug/net6.0/better-random.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/better-random/obj/Debug/net6.0/ref/better-random.dll
