@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "safer-number-crunching", "safer-number-crunching.csproj", "{DC663ACA-4F84-4393-9B0A-6E1C8B799046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC663ACA-4F84-4393-9B0A-6E1C8B799046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC663ACA-4F84-4393-9B0A-6E1C8B799046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC663ACA-4F84-4393-9B0A-6E1C8B799046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC663ACA-4F84-4393-9B0A-6E1C8B799046}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3078674-2851-4652-8820-8FC8EBB6E15B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/safer-number-crunching/obj/Debug/net6.0/safer-number-crunching.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/safer-number-crunching/obj/Debug/net6.0/safer-number-crunching.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/safer-number-crunching/obj/Debug/net6.0/safer-number-crunching.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/safer-number-crunching/obj/Debug/net6.0/safer-number-crunching.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/safer-number-crunching/obj/Debug/net6.0/safer-number-crunching.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/safer-number-crunching/bin/Debug/net6.0/safer-number-crunching
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/safer-number-crunching/bin/Debug/net6.0/safer-number-crunching.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/safer-number-crunching/bin/Debug/net6.0/safer-number-crunching.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/safer-number-crunching/bin/Debug/net6.0/safer-number-crunching.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/safer-number-crunching/bin/Debug/net6.0/safer-number-crunching.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/safer-number-crunching/obj/Debug/net6.0/safer-number-crunching.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/safer-number-crunching/obj/Debug/net6.0/refint/safer-number-crunching.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/safer-number-crunching/obj/Debug/net6.0/safer-number-crunching.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/safer-number-crunching/obj/Debug/net6.0/safer-number-crunching.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/safer-number-crunching/obj/Debug/net6.0/ref/safer-number-crunching.dll

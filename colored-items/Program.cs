@@ -1,5 +1,4 @@
-﻿// Setup the console
-Console.Clear();
+﻿Console.Clear();
 Console.ForegroundColor = ConsoleColor.Yellow;
 Console.WriteLine("Colored Items");
 
@@ -13,7 +12,9 @@ ColoredItem<Axe> axe = new ColoredItem<Axe> { Color = ConsoleColor.Green };
 axe.Display();
 
 public class Sword { }
+
 public class Bow { }
+
 public class Axe { }
 
 public class ColoredItem<T> where T: new()
@@ -26,5 +27,4 @@ public class ColoredItem<T> where T: new()
         Console.ForegroundColor = Color;
         Console.WriteLine(Item);
     }
-
 }

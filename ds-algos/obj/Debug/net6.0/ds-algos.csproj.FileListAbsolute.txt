@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/ds-algos/obj/Debug/net6.0/ds-algos.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/ds-algos/obj/Debug/net6.0/ds-algos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/ds-algos/obj/Debug/net6.0/ds-algos.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/ds-algos/obj/Debug/net6.0/ds-algos.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/ds-algos/obj/Debug/net6.0/ds-algos.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/ds-algos/bin/Debug/net6.0/ds-algos
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/ds-algos/bin/Debug/net6.0/ds-algos.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/ds-algos/bin/Debug/net6.0/ds-algos.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/ds-algos/bin/Debug/net6.0/ds-algos.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/ds-algos/bin/Debug/net6.0/ds-algos.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/ds-algos/obj/Debug/net6.0/ds-algos.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/ds-algos/obj/Debug/net6.0/refint/ds-algos.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/ds-algos/obj/Debug/net6.0/ds-algos.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/ds-algos/obj/Debug/net6.0/ds-algos.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/ds-algos/obj/Debug/net6.0/ref/ds-algos.dll
