@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-sieve/bin/Debug/net6.0/the-sieve
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-sieve/bin/Debug/net6.0/the-sieve.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-sieve/bin/Debug/net6.0/the-sieve.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-sieve/bin/Debug/net6.0/the-sieve.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-sieve/bin/Debug/net6.0/the-sieve.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-sieve/obj/Debug/net6.0/the-sieve.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-sieve/obj/Debug/net6.0/the-sieve.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-sieve/obj/Debug/net6.0/the-sieve.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-sieve/obj/Debug/net6.0/the-sieve.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-sieve/obj/Debug/net6.0/the-sieve.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-sieve/obj/Debug/net6.0/the-sieve.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-sieve/obj/Debug/net6.0/refint/the-sieve.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-sieve/obj/Debug/net6.0/the-sieve.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-sieve/obj/Debug/net6.0/the-sieve.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-sieve/obj/Debug/net6.0/ref/the-sieve.dll

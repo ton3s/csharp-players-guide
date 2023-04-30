@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/delegates/bin/Debug/net6.0/delegates
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/delegates/bin/Debug/net6.0/delegates.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/delegates/bin/Debug/net6.0/delegates.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/delegates/bin/Debug/net6.0/delegates.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/delegates/bin/Debug/net6.0/delegates.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/delegates/obj/Debug/net6.0/delegates.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/delegates/obj/Debug/net6.0/delegates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/delegates/obj/Debug/net6.0/delegates.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/delegates/obj/Debug/net6.0/delegates.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/delegates/obj/Debug/net6.0/delegates.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/delegates/obj/Debug/net6.0/delegates.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/delegates/obj/Debug/net6.0/refint/delegates.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/delegates/obj/Debug/net6.0/delegates.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/delegates/obj/Debug/net6.0/delegates.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/delegates/obj/Debug/net6.0/ref/delegates.dll

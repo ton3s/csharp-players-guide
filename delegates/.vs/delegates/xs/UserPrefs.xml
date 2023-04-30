@@ -1,15 +1,15 @@
-﻿<Properties StartupConfiguration="{E3D71204-721C-4D6A-94FE-8D8991309D2C}|Default">
-  <MonoDevelop.Ide.ItemProperties.exeptis-game PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{C5F8E25D-0BF4-45E7-8141-2D586314465F}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.delegates PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="49" Column="2" />
+      <File FileName="Program.cs" Line="23" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="exeptis-game" expanded="True">
-            <Node name="exeptis-game" expanded="True">
+          <Node name="delegates" expanded="True">
+            <Node name="delegates" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
