@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/charberry-trees/bin/Debug/net6.0/charberry-trees
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/charberry-trees/bin/Debug/net6.0/charberry-trees.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/charberry-trees/bin/Debug/net6.0/charberry-trees.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/charberry-trees/bin/Debug/net6.0/charberry-trees.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/charberry-trees/bin/Debug/net6.0/charberry-trees.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/charberry-trees/obj/Debug/net6.0/charberry-trees.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/charberry-trees/obj/Debug/net6.0/charberry-trees.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/charberry-trees/obj/Debug/net6.0/charberry-trees.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/charberry-trees/obj/Debug/net6.0/charberry-trees.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/charberry-trees/obj/Debug/net6.0/charberry-trees.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/charberry-trees/obj/Debug/net6.0/charberry-trees.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/charberry-trees/obj/Debug/net6.0/refint/charberry-trees.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/charberry-trees/obj/Debug/net6.0/charberry-trees.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/charberry-trees/obj/Debug/net6.0/charberry-trees.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/charberry-trees/obj/Debug/net6.0/ref/charberry-trees.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "charberry-trees/1.0.0": {
+        "runtime": {
+          "charberry-trees.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "charberry-trees/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
