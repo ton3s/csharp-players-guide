@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/exeptis-game/bin/Debug/net6.0/exeptis-game
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/exeptis-game/bin/Debug/net6.0/exeptis-game.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/exeptis-game/bin/Debug/net6.0/exeptis-game.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/exeptis-game/bin/Debug/net6.0/exeptis-game.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/exeptis-game/bin/Debug/net6.0/exeptis-game.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/exeptis-game/obj/Debug/net6.0/exeptis-game.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/exeptis-game/obj/Debug/net6.0/exeptis-game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/exeptis-game/obj/Debug/net6.0/exeptis-game.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/exeptis-game/obj/Debug/net6.0/exeptis-game.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/exeptis-game/obj/Debug/net6.0/exeptis-game.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/exeptis-game/obj/Debug/net6.0/exeptis-game.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/exeptis-game/obj/Debug/net6.0/refint/exeptis-game.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/exeptis-game/obj/Debug/net6.0/exeptis-game.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/exeptis-game/obj/Debug/net6.0/exeptis-game.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/exeptis-game/obj/Debug/net6.0/ref/exeptis-game.dll
