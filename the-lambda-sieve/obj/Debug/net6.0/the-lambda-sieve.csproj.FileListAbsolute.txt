@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-lambda-sieve/bin/Debug/net6.0/the-lambda-sieve
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-lambda-sieve/bin/Debug/net6.0/the-lambda-sieve.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-lambda-sieve/bin/Debug/net6.0/the-lambda-sieve.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-lambda-sieve/bin/Debug/net6.0/the-lambda-sieve.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-lambda-sieve/bin/Debug/net6.0/the-lambda-sieve.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-lambda-sieve/obj/Debug/net6.0/the-lambda-sieve.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-lambda-sieve/obj/Debug/net6.0/the-lambda-sieve.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-lambda-sieve/obj/Debug/net6.0/the-lambda-sieve.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-lambda-sieve/obj/Debug/net6.0/the-lambda-sieve.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-lambda-sieve/obj/Debug/net6.0/the-lambda-sieve.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-lambda-sieve/obj/Debug/net6.0/the-lambda-sieve.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-lambda-sieve/obj/Debug/net6.0/refint/the-lambda-sieve.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-lambda-sieve/obj/Debug/net6.0/the-lambda-sieve.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-lambda-sieve/obj/Debug/net6.0/the-lambda-sieve.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-lambda-sieve/obj/Debug/net6.0/ref/the-lambda-sieve.dll
