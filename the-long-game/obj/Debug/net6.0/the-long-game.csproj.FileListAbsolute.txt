@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-long-game/bin/Debug/net6.0/the-long-game
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-long-game/bin/Debug/net6.0/the-long-game.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-long-game/bin/Debug/net6.0/the-long-game.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-long-game/bin/Debug/net6.0/the-long-game.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-long-game/bin/Debug/net6.0/the-long-game.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-long-game/obj/Debug/net6.0/the-long-game.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-long-game/obj/Debug/net6.0/the-long-game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-long-game/obj/Debug/net6.0/the-long-game.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-long-game/obj/Debug/net6.0/the-long-game.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-long-game/obj/Debug/net6.0/the-long-game.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-long-game/obj/Debug/net6.0/the-long-game.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-long-game/obj/Debug/net6.0/refint/the-long-game.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-long-game/obj/Debug/net6.0/the-long-game.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-long-game/obj/Debug/net6.0/the-long-game.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-long-game/obj/Debug/net6.0/ref/the-long-game.dll

@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/file/bin/Debug/net6.0/file
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/file/bin/Debug/net6.0/file.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/file/bin/Debug/net6.0/file.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/file/bin/Debug/net6.0/file.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/file/bin/Debug/net6.0/file.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/file/obj/Debug/net6.0/file.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/file/obj/Debug/net6.0/file.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/file/obj/Debug/net6.0/file.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/file/obj/Debug/net6.0/file.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/file/obj/Debug/net6.0/file.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/file/obj/Debug/net6.0/file.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/file/obj/Debug/net6.0/refint/file.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/file/obj/Debug/net6.0/file.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/file/obj/Debug/net6.0/file.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/file/obj/Debug/net6.0/ref/file.dll
