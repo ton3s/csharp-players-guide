@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/converting-directions-to-offsets/bin/Debug/net6.0/converting-directions-to-offsets
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/converting-directions-to-offsets/bin/Debug/net6.0/converting-directions-to-offsets.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/converting-directions-to-offsets/bin/Debug/net6.0/converting-directions-to-offsets.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/converting-directions-to-offsets/bin/Debug/net6.0/converting-directions-to-offsets.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/converting-directions-to-offsets/bin/Debug/net6.0/converting-directions-to-offsets.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/converting-directions-to-offsets/obj/Debug/net6.0/converting-directions-to-offsets.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/converting-directions-to-offsets/obj/Debug/net6.0/converting-directions-to-offsets.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/converting-directions-to-offsets/obj/Debug/net6.0/converting-directions-to-offsets.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/converting-directions-to-offsets/obj/Debug/net6.0/converting-directions-to-offsets.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/converting-directions-to-offsets/obj/Debug/net6.0/converting-directions-to-offsets.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/converting-directions-to-offsets/obj/Debug/net6.0/converting-directions-to-offsets.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/converting-directions-to-offsets/obj/Debug/net6.0/refint/converting-directions-to-offsets.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/converting-directions-to-offsets/obj/Debug/net6.0/converting-directions-to-offsets.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/converting-directions-to-offsets/obj/Debug/net6.0/converting-directions-to-offsets.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/converting-directions-to-offsets/obj/Debug/net6.0/ref/converting-directions-to-offsets.dll
