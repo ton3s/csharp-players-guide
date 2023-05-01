@@ -15,16 +15,25 @@ while (true)
     Console.WriteLine("[3] Dragon Breath");
     Console.WriteLine("[4] Shadow Glass");
     Console.WriteLine("[5] Eyeshine Gem");
-    int input = Convert.ToInt32(Console.ReadLine());
+    string? input = Console.ReadLine();
 
     Ingredient ingredient = input switch
     {
-        1 => Ingredient.StarDust,
-        2 => Ingredient.SnakeVenom,
-        3 => Ingredient.DragonBreath,
-        4 => Ingredient.ShadowGlass,
-        5 => Ingredient.EyeshineGem
+        "1" => Ingredient.StarDust,
+        "2" => Ingredient.SnakeVenom,
+        "3" => Ingredient.DragonBreath,
+        "4" => Ingredient.ShadowGlass,
+        "5" => Ingredient.EyeshineGem,
+        _ => Ingredient.Unknown
     };
+
+    if (ingredient == Ingredient.Unknown)
+    {
+        Console.Clear();
+        Console.ForegroundColor = ConsoleColor.Red;
+        Console.WriteLine("Invalid ingredient selection.");
+        continue;
+    }
 
     potion = ingredient switch
     {
@@ -75,5 +84,6 @@ public enum Ingredient
     SnakeVenom,
     DragonBreath,
     ShadowGlass,
-    EyeshineGem
+    EyeshineGem,
+    Unknown
 }
