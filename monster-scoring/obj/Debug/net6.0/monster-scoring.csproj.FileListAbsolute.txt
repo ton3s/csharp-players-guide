@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/monster-scoring/bin/Debug/net6.0/monster-scoring
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/monster-scoring/bin/Debug/net6.0/monster-scoring.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/monster-scoring/bin/Debug/net6.0/monster-scoring.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/monster-scoring/bin/Debug/net6.0/monster-scoring.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/monster-scoring/bin/Debug/net6.0/monster-scoring.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/monster-scoring/obj/Debug/net6.0/monster-scoring.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/monster-scoring/obj/Debug/net6.0/monster-scoring.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/monster-scoring/obj/Debug/net6.0/monster-scoring.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/monster-scoring/obj/Debug/net6.0/monster-scoring.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/monster-scoring/obj/Debug/net6.0/monster-scoring.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/monster-scoring/obj/Debug/net6.0/monster-scoring.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/monster-scoring/obj/Debug/net6.0/refint/monster-scoring.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/monster-scoring/obj/Debug/net6.0/monster-scoring.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/monster-scoring/obj/Debug/net6.0/monster-scoring.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/monster-scoring/obj/Debug/net6.0/ref/monster-scoring.dll

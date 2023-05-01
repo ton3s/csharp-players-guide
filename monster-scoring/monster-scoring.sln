@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "monster-scoring", "monster-scoring.csproj", "{296C9989-5BF3-4B65-8C68-C9F0159511CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{296C9989-5BF3-4B65-8C68-C9F0159511CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{296C9989-5BF3-4B65-8C68-C9F0159511CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{296C9989-5BF3-4B65-8C68-C9F0159511CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{296C9989-5BF3-4B65-8C68-C9F0159511CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92EDB790-7E9F-438D-9C3B-48EBDEFA476F}
+	EndGlobalSection
+EndGlobal

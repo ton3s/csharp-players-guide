@@ -1,15 +1,17 @@
-﻿<Properties StartupConfiguration="{63A56054-1D14-4BED-9C1D-00CAC7C20C4F}|Default">
+﻿<Properties StartupConfiguration="{296C9989-5BF3-4B65-8C68-C9F0159511CC}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.the-long-game PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.monster-scoring PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="16" Column="37" />
+      <File FileName="Program.cs" Line="5" Column="8" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="the-long-game" expanded="True">
-            <Node name="the-long-game" expanded="True" />
+          <Node name="monster-scoring" expanded="True">
+            <Node name="monster-scoring" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

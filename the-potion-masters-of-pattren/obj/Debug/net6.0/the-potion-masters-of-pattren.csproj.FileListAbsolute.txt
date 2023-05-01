@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-potion-masters-of-pattren/bin/Debug/net6.0/the-potion-masters-of-pattren
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-potion-masters-of-pattren/bin/Debug/net6.0/the-potion-masters-of-pattren.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-potion-masters-of-pattren/bin/Debug/net6.0/the-potion-masters-of-pattren.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-potion-masters-of-pattren/bin/Debug/net6.0/the-potion-masters-of-pattren.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-potion-masters-of-pattren/bin/Debug/net6.0/the-potion-masters-of-pattren.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-potion-masters-of-pattren/obj/Debug/net6.0/the-potion-masters-of-pattren.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-potion-masters-of-pattren/obj/Debug/net6.0/the-potion-masters-of-pattren.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-potion-masters-of-pattren/obj/Debug/net6.0/the-potion-masters-of-pattren.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-potion-masters-of-pattren/obj/Debug/net6.0/the-potion-masters-of-pattren.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-potion-masters-of-pattren/obj/Debug/net6.0/the-potion-masters-of-pattren.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-potion-masters-of-pattren/obj/Debug/net6.0/the-potion-masters-of-pattren.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-potion-masters-of-pattren/obj/Debug/net6.0/refint/the-potion-masters-of-pattren.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-potion-masters-of-pattren/obj/Debug/net6.0/the-potion-masters-of-pattren.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-potion-masters-of-pattren/obj/Debug/net6.0/the-potion-masters-of-pattren.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/the-potion-masters-of-pattren/obj/Debug/net6.0/ref/the-potion-masters-of-pattren.dll
