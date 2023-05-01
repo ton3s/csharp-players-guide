@@ -1,6 +1,6 @@
 ﻿Console.Clear();
 Console.ForegroundColor = ConsoleColor.Yellow;
-Console.WriteLine("operator Overloading");
+Console.WriteLine("Operator Overloading");
 
 Point a = new Point(2, 3);
 Point b = new Point(1, 8);

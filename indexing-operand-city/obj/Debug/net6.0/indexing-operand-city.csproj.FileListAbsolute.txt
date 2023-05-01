@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/indexing-operand-city/bin/Debug/net6.0/indexing-operand-city
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/indexing-operand-city/bin/Debug/net6.0/indexing-operand-city.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/indexing-operand-city/bin/Debug/net6.0/indexing-operand-city.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/indexing-operand-city/bin/Debug/net6.0/indexing-operand-city.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/indexing-operand-city/bin/Debug/net6.0/indexing-operand-city.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/indexing-operand-city/obj/Debug/net6.0/indexing-operand-city.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/indexing-operand-city/obj/Debug/net6.0/indexing-operand-city.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/indexing-operand-city/obj/Debug/net6.0/indexing-operand-city.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/indexing-operand-city/obj/Debug/net6.0/indexing-operand-city.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/indexing-operand-city/obj/Debug/net6.0/indexing-operand-city.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/indexing-operand-city/obj/Debug/net6.0/indexing-operand-city.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/indexing-operand-city/obj/Debug/net6.0/refint/indexing-operand-city.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/indexing-operand-city/obj/Debug/net6.0/indexing-operand-city.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/indexing-operand-city/obj/Debug/net6.0/indexing-operand-city.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/indexing-operand-city/obj/Debug/net6.0/ref/indexing-operand-city.dll
