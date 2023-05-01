@@ -1,0 +1,15 @@
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/operator-overloading/bin/Debug/net6.0/operator-overloading
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/operator-overloading/bin/Debug/net6.0/operator-overloading.deps.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/operator-overloading/bin/Debug/net6.0/operator-overloading.runtimeconfig.json
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/operator-overloading/bin/Debug/net6.0/operator-overloading.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/operator-overloading/bin/Debug/net6.0/operator-overloading.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/operator-overloading/obj/Debug/net6.0/operator-overloading.csproj.AssemblyReference.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/operator-overloading/obj/Debug/net6.0/operator-overloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/operator-overloading/obj/Debug/net6.0/operator-overloading.AssemblyInfoInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/operator-overloading/obj/Debug/net6.0/operator-overloading.AssemblyInfo.cs
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/operator-overloading/obj/Debug/net6.0/operator-overloading.csproj.CoreCompileInputs.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/operator-overloading/obj/Debug/net6.0/operator-overloading.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/operator-overloading/obj/Debug/net6.0/refint/operator-overloading.dll
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/operator-overloading/obj/Debug/net6.0/operator-overloading.pdb
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/operator-overloading/obj/Debug/net6.0/operator-overloading.genruntimeconfig.cache
+/Users/antoniocunanan/Desktop/c#/csharp-players-guide/operator-overloading/obj/Debug/net6.0/ref/operator-overloading.dll
